@@ -1,0 +1,112 @@
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\20c92f00-c5e5-48f8-96f0-87fc0b509f83\Stator_PCB_ver_1.1.cmp' ----   Thu Feb 23 08:29:37 2023
+
+D10   --> D153
+D11   --> D154
+D12   --> D155
+D13   --> D156
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\20c92f00-c5e5-48f8-96f0-87fc0b509f83\Stator_PCB_ver_1.1.crm' ----   Thu Feb 23 08:29:37 2023
+
+D10   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\20c92f00-c5e5-48f8-96f0-87fc0b509f83\Stator_PCB_ver_1.1.l2' ----   Thu Feb 23 08:29:37 2023
+
+D10   --> D158
+D11   --> D159
+D12   --> D160
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\20c92f00-c5e5-48f8-96f0-87fc0b509f83\Stator_PCB_ver_1.1.l3' ----   Thu Feb 23 08:29:37 2023
+
+D10   --> D161
+D11   --> D162
+D12   --> D163
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\20c92f00-c5e5-48f8-96f0-87fc0b509f83\Stator_PCB_ver_1.1.slkb' ----   Thu Feb 23 08:29:37 2023
+
+D10   --> D164
+D11   --> D165
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\20c92f00-c5e5-48f8-96f0-87fc0b509f83\Stator_PCB_ver_1.1.slkt' ----   Thu Feb 23 08:29:37 2023
+
+D10   --> D166
+D11   --> D167
+D12   --> D168
+D13   --> D169
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\20c92f00-c5e5-48f8-96f0-87fc0b509f83\Stator_PCB_ver_1.1.sol' ----   Thu Feb 23 08:29:37 2023
+
+D10   --> D170
+D11   --> D171
+D12   --> D172
+D13   --> D173
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\b0c7fc51-ed43-4282-a467-00559c306ca7\Stator_PCB_ver_1.1.cmp' ----   Thu Feb 23 08:33:17 2023
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\b0c7fc51-ed43-4282-a467-00559c306ca7\Stator_PCB_ver_1.1.crm' ----   Thu Feb 23 08:33:17 2023
+
+D10   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\b0c7fc51-ed43-4282-a467-00559c306ca7\Stator_PCB_ver_1.1.l2' ----   Thu Feb 23 08:33:17 2023
+
+D10   --> D105
+D11   --> D106
+D12   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\b0c7fc51-ed43-4282-a467-00559c306ca7\Stator_PCB_ver_1.1.l3' ----   Thu Feb 23 08:33:17 2023
+
+D10   --> D108
+D11   --> D109
+D12   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\b0c7fc51-ed43-4282-a467-00559c306ca7\Stator_PCB_ver_1.1.slkb' ----   Thu Feb 23 08:33:17 2023
+
+D10   --> D111
+D11   --> D112
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\b0c7fc51-ed43-4282-a467-00559c306ca7\Stator_PCB_ver_1.1.slkt' ----   Thu Feb 23 08:33:17 2023
+
+D10   --> D113
+D11   --> D114
+D12   --> D115
+D13   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\CTR\AppData\Local\Temp\PentaLogix\ImportZip\b0c7fc51-ed43-4282-a467-00559c306ca7\Stator_PCB_ver_1.1.sol' ----   Thu Feb 23 08:33:17 2023
+
+D10   --> D117
+D11   --> D118
+D12   --> D119
+D13   --> D120
+-----------------------------------------------------------------

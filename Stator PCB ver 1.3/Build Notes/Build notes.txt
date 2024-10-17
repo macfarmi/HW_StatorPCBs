@@ -1,0 +1,21 @@
+Stator_PCB build notes ver 1.3:
+
+Layers: 		4
+Copper Weight: 		2 ounce final (all 4 layers)
+Finish: 		HASL
+Mask color: 		Matte Black
+Silk Color: 		White both sides.
+Substrate: 		FR4 high TG (TG170) for lead free.
+PCB thickness: 		.0625"(1.583mm) +/- 10%
+Panel:			See panel PDF.
+
+Controlled Dielectric Stackup, see stackup PNG.
+NO X-OUTS.
+
+DO NOT MODIFY GERBERS WITHOUT APPROVAL
+Send Panelized Gerbers for approval.
+DATE CODES AND TEST DATA ONLY, NO IDENTIFYING LOGOS OR EMBLEMS
+Make sure ALL logos and silk layers are present BEFORE shipping to us.
+
+Please include paste layers in panel Gerbers.
+Reduce all mask defined pads by 2 mils.
