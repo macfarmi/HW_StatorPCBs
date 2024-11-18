@@ -1,0 +1,117 @@
+
+
+   ---- Transcoding 'C:\Users\Mike\Desktop\GIT\HW_StatorPCBs\Stator PCB ver 2.1\GERBERS\Production\Stator_PCB_2_1\Stator_PCB_2_1\sdrl' ----   Thu Oct 24 10:29:00 2024
+
+D10   --> D120
+D11   --> D121
+D12   --> D122
+D13   --> D123
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Mike\Desktop\GIT\HW_StatorPCBs\Stator PCB ver 2.1\GERBERS\Production\Stator_PCB_2_1\Stator_PCB_2_1\sgbl' ----   Thu Oct 24 10:29:00 2024
+
+D10   --> D124
+D11   --> D125
+D12   --> D126
+D13   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Mike\Desktop\GIT\HW_StatorPCBs\Stator PCB ver 2.1\GERBERS\Production\Stator_PCB_2_1\Stator_PCB_2_1\sgbs' ----   Thu Oct 24 10:29:00 2024
+
+D10   --> D128
+D11   --> D129
+D12   --> D130
+D13   --> D131
+D14   --> D132
+D15   --> D133
+D16   --> D134
+D17   --> D135
+D18   --> D136
+D19   --> D137
+D20   --> D138
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Mike\Desktop\GIT\HW_StatorPCBs\Stator PCB ver 2.1\GERBERS\Production\Stator_PCB_2_1\Stator_PCB_2_1\sgko' ----   Thu Oct 24 10:29:00 2024
+
+D10   --> D139
+D11   --> D140
+D12   --> D141
+D13   --> D142
+D14   --> D143
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Mike\Desktop\GIT\HW_StatorPCBs\Stator PCB ver 2.1\GERBERS\Production\Stator_PCB_2_1\Stator_PCB_2_1\sgtl' ----   Thu Oct 24 10:29:00 2024
+
+D10   --> D144
+D11   --> D145
+D12   --> D146
+D13   --> D147
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Mike\Desktop\GIT\HW_StatorPCBs\Stator PCB ver 2.1\GERBERS\Production\Stator_PCB_2_1\Stator_PCB_2_1\sgto' ----   Thu Oct 24 10:29:00 2024
+
+D10   --> D148
+D11   --> D149
+D12   --> D150
+D13   --> D151
+D14   --> D152
+D15   --> D153
+D16   --> D154
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Mike\Desktop\GIT\HW_StatorPCBs\Stator PCB ver 2.1\GERBERS\Production\Stator_PCB_2_1\Stator_PCB_2_1\sgts' ----   Thu Oct 24 10:29:00 2024
+
+D10   --> D155
+D11   --> D156
+D12   --> D157
+D13   --> D158
+D14   --> D159
+D15   --> D160
+D16   --> D161
+D17   --> D162
+D18   --> D163
+D19   --> D164
+D20   --> D165
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Mike\Desktop\GIT\HW_StatorPCBs\Stator PCB ver 2.1\GERBERS\Production\Stator_PCB_2_1\Stator_PCB_2_1\sl2t' ----   Thu Oct 24 10:29:00 2024
+
+D10   --> D166
+D11   --> D167
+D12   --> D168
+D13   --> D169
+D16   --> D170
+D17   --> D171
+D18   --> D172
+D19   --> D173
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Mike\Desktop\GIT\HW_StatorPCBs\Stator PCB ver 2.1\GERBERS\Production\Stator_PCB_2_1\Stator_PCB_2_1\sl3b' ----   Thu Oct 24 10:29:00 2024
+
+D10   --> D174
+D11   --> D175
+D12   --> D176
+D13   --> D177
+D16   --> D178
+D17   --> D179
+D18   --> D180
+D19   --> D181
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Mike\Desktop\GIT\HW_StatorPCBs\Stator PCB ver 2.1\GERBERS\Production\Stator_PCB_2_1\Stator_PCB_2_1\ssmt' ----   Thu Oct 24 10:29:00 2024
+
+D10   --> D182
+D11   --> D183
+D12   --> D184
+D13   --> D185
+D14   --> D186
+-----------------------------------------------------------------
